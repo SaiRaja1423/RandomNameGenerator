@@ -1,2 +1,2 @@
 # RandomNameGenerator
-Random Food Name Generator
+Generates random food names using list and random opertations
